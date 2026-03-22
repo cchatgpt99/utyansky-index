@@ -40,3 +40,4 @@ For global compatibility, all indexes are divided into functional groups (catego
 *Status: v5.2 GOLD STANDARD. ISO-2146 Compatible.*
 *Concept Author: UTYANSKY.*
 *Produced by: Utyansky Forge*
+
