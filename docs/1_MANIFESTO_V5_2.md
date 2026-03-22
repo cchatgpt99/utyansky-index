@@ -22,6 +22,9 @@ The Utyansky Index is the **DNA of Code**.
 - **Lego-Compatibility**: Modules (blocks) connect to each other automatically if their indexes are compatible.
 - **Interoperability**: As in modern automation systems, modules understand whether they fit together or if an "adapter" is required.
 
+- ### 🌐 Cross-Stack Synchronization
+The Index is the ultimate **Inter-System Protocol**. It eliminates the "Babel Tower" problem in software development. By providing a unified coordinate system, it allows a Python-based AI to precisely interact with a Rust-based engine or a Legacy SQL database as if they were part of the same native library.
+
 ## 🧪 THE UTYANSKY PERIODIC TABLE (V6.0)
 For global compatibility, all indexes are divided into functional groups (categories):
 
