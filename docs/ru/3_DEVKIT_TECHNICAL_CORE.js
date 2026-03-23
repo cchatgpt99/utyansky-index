@@ -21,7 +21,6 @@ export class UtyanskyDevKit {
         console.log(">>> [M.4.DEV.KIT] v5.2 HYBRID STABLE++ READY");
     }
 
-    // РЕАЛЬНЫЙ РАСЧЕТ СЕТКИ 40x40
     calculateCoordinates(e) {
         const colWidth = window.innerWidth / 40;
         const rowHeight = window.innerHeight / 40;
@@ -75,7 +74,6 @@ export class UtyanskyDevKit {
             <button class="uty-btn" data-mode="mntr">MNTR</button>
         `;
         document.body.appendChild(host);
-
         const tooltip = document.createElement('div');
         tooltip.id = 'uty-pixel-indicator';
         tooltip.style.display = 'none';
